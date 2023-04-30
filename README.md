@@ -40,7 +40,3 @@ To use this project:
 2. Click the "Generate Gradient" button
 3. The gradient will be displayed in the container with the hex color codes for each selected color displayed next to its respective input
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
